@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Luis F. Muñoz
 
-<!--
-**LFmunoz-sec/LFmunoz-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring cybersecurity analyst based in Madrid, Spain.
+Currently building my foundation in security operations and defensive security.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Google Cybersecurity Professional Certificate (in progress)
+- Preparing for CompTIA Security+ certification
+- Hands-on practice with Linux, networking and SIEM tools
+
+## Interests
+
+- Security Operations Center (SOC) workflows
+- Network traffic analysis
+- Threat detection and incident response
+- Scripting for security automation (Bash, Python)
+
+## Goals
+
+Looking for an entry-level role as a SOC Analyst or Security Analyst
+in an international environment.
